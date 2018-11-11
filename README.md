@@ -1,6 +1,10 @@
 # Loja-de-Produtos
 Loja de produtos desenvolvida durante um curso de PHP e MySQL
 
+https://lojatenis.000webhostapp.com/loja-produtos/index.php
+
+COM ALGUNS ERROS NO WEBHOST POR CONTA DO SERVIDOR, LOCALMENTE FUNCIONA 100%
+
 CÓDIGOS SQL ↓
 
 --------------------------------------------------------------------------------
